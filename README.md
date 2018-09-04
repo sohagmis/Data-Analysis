@@ -1,2 +1,2 @@
-# Data-Analysis
-Panel Data Regression
+# Panel Data Regression
+Sohag Mahamud
